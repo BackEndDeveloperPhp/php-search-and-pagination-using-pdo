@@ -1,1 +1,1 @@
-# php-search-and-pagination-using-pdo
+In this example, we have a general search to filter all the column data by the specified keyword. For pagination, we have limited the record count as three per page and the page navigation links are specified at the bottom of the list.
